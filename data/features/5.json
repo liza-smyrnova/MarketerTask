@@ -1,0 +1,61 @@
+{
+  "bathroom": [
+    [
+      "en",
+      "suite"
+    ],
+    [
+      "family"
+    ],
+    [
+      "additional"
+    ],
+    [
+      "three"
+    ]
+  ],
+  "bedroom": [
+    [
+      "master"
+    ],
+    [
+      "three",
+      "further"
+    ],
+    [
+      "two",
+      "double"
+    ],
+    [
+      "detached",
+      "six"
+    ]
+  ],
+  "garden": [
+    [
+      "attractive",
+      "50",
+      "ft"
+    ]
+  ],
+  "living room": [
+    [
+      "front"
+    ]
+  ],
+  "location": [
+    [
+      "popular"
+    ]
+  ],
+  "property": [
+    [
+      "handsome",
+      "six",
+      "bedroom",
+      "detached",
+      "edwardian",
+      "family"
+    ]
+  ]
+}

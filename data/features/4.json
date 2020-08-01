@@ -1,0 +1,38 @@
+{
+  "bathroom": [
+    [
+      "two"
+    ],
+    [
+      "two"
+    ]
+  ],
+  "bedroom": [
+    [
+      "four"
+    ],
+    [
+      "four"
+    ]
+  ],
+  "garden": [
+    [
+      "wonderful"
+    ]
+  ],
+  "living room": [
+    [
+      "light",
+      "filled"
+    ]
+  ],
+  "property": [
+    [
+      "delightful",
+      "four",
+      "bedroom",
+      "edwardian",
+      "family"
+    ]
+  ]
+}

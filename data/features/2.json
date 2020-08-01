@@ -1,0 +1,42 @@
+{
+  "bathroom": [
+    [
+      "two"
+    ]
+  ],
+  "bedroom": [
+    [
+      "two",
+      "double"
+    ],
+    [
+      "third"
+    ],
+    [
+      "2"
+    ]
+  ],
+  "living room": [
+    [
+      "top",
+      "floor"
+    ]
+  ],
+  "location": [
+    [
+      "central",
+      "pimlico"
+    ],
+    [
+      "highly",
+      "desirable",
+      "central",
+      "london"
+    ]
+  ],
+  "property": [
+    [
+      "spacious"
+    ]
+  ]
+}

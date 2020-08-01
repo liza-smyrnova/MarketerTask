@@ -1,0 +1,47 @@
+{
+  "bathroom": [
+    [
+      "two"
+    ],
+    [
+      "two"
+    ]
+  ],
+  "bedroom": [
+    [
+      "two"
+    ]
+  ],
+  "living room": [
+    [
+      "generous"
+    ]
+  ],
+  "location": [
+    [
+      "central",
+      "london"
+    ],
+    [
+      "garden",
+      "square"
+    ]
+  ],
+  "property": [
+    [
+      "two",
+      "bedroom"
+    ],
+    [
+      "raised",
+      "ground",
+      "floor"
+    ],
+    [
+      "flexible"
+    ],
+    [
+      "spacious"
+    ]
+  ]
+}
